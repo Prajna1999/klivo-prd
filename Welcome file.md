@@ -1,9 +1,15 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
-
-<h1 id="klivo-detailed-product-requirements-document">Klivo: Detailed Product Requirements Document</h1>
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="klivo-detailed-product-requirements-document">Klivo: Detailed Product Requirements Document</h1>
 <h2 id="features-for-creators">1. Features for Creators</h2>
 <h3 id="dashboard-and-analytics-tool">1.1 Dashboard and Analytics Tool</h3>
 <h4 id="overview">Overview</h4>
@@ -596,4 +602,7 @@
 <li>Clear service descriptions and pricing</li>
 <li>Streamlined booking and payment process</li>
 </ul>
+</div>
+</body>
 
+</html>
