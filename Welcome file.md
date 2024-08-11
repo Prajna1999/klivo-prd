@@ -1,9 +1,15 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
-
-<h1 id="c-programming-and-http-server-learning-plan">C Programming and HTTP Server Learning Plan</h1>
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="c-programming-and-http-server-learning-plan">C Programming and HTTP Server Learning Plan</h1>
 <h2 id="c-programming-fundamentals">1. C Programming Fundamentals</h2>
 <h3 id="week-1-2-basics-of-c">Week 1-2: Basics of C</h3>
 <ul>
@@ -103,4 +109,7 @@
 <li>Join online communities (e.g., Stack Overflow, Reddit’s r/C_Programming) for support</li>
 </ul>
 <p>Remember to adjust this timeline based on your prior experience and available time. The key is consistent progress and hands-on practice. Good luck with your learning journey!</p>
+</div>
+</body>
 
+</html>
